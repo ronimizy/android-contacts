@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="found_contacts_template">Found %1$d contacts</string>
+    <string name="contacts_not_found">No contacts found</string>
+    <string name="contacts_forbidden">No access to contacts</string>
+</resources>

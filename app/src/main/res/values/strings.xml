@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Contacts</string>
+
+    <string name="found_contacts_template">Найдено %1$d контактов</string>
+    <string name="contacts_not_found">Контакты не найдены</string>
+    <string name="contacts_forbidden">Нет доступа к контактам</string>
+</resources>
